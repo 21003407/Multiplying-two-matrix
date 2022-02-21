@@ -18,9 +18,6 @@ Display the result.
 ## PROGRAM: 
 
 ~~~
-# To write a python program for Multiplying two matrices.
-# Developed by : Ragul AC
-# Register Number : 212221240042
 import numpy as np
 l1,l2=[],[]
 n=int(input())
